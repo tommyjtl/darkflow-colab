@@ -1,6 +1,0 @@
-carpark
-disability
-giveway
-landslide
-stop
-wifi
